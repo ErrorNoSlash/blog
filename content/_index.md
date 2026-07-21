@@ -15,6 +15,6 @@ NixOS setup more than is strictly necessary.
 This blog is where I document the projects I make: what I built, what
 broke, and what I learned fixing it. Longer write-ups live on my
 [docs site](https://docs.errornoslash.be); the rest of me is at
-[errornoslash.be](https://errornoslash.be).
+[my website](https://hello.errornoslash.be).
 
 New posts land below as they happen.
