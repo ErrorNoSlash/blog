@@ -7,6 +7,8 @@ content:
     label: Blog posts
     type: collection
     path: content/blog
+    exclude:
+      - "_index.md"
     format: toml-frontmatter
     filename: "{fields.slug}.md"
     view:
