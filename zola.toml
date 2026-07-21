@@ -1,0 +1,59 @@
+base_url = "https://blog.errornoslash.be"
+
+title = "DS-blog"
+description = "Hello this is my blog. I made this to document the projects i make."
+author = "Dias Stas"
+
+theme = "terminus"
+
+compile_sass = true
+generate_feeds = true
+build_search_index = true
+
+taxonomies = [
+    { name = "tags", feed = true },
+    { name = "categories", feed = true, paginate_by = 5 },
+]
+
+[markdown]
+render_emoji = true
+external_links_class = "external"
+bottom_footnotes = true
+lazy_async_image = true
+github_alerts = true
+
+[markdown.highlighting]
+style = "inline"
+extra_themes = ["syntaxes/monokai-classic.json"]
+theme = "monokai-classic"
+
+[extra]
+close_responsive_menu_on_resize = true
+favicon_emoji = "👨‍💻"
+feed_icon = true
+layout = "center"
+show_default_author = false
+
+color_scheme = "errorno-dark"
+color_scheme_switcher = true
+stylesheets = ["css/custom-palette.css"]
+
+main_menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    { name = "archive", url = "archive", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
+]
+
+socials = [
+    { name = "email", url = "mailto:dias.stas@pm.me" },
+    { name = "github", url = "https://github.com/ErrorNoSlash" },
+    { name = "mastodon", url = "https://mastodon.social/@slashy" },
+]
+
+[extra.content_security_policy]
+enable = false
+
+[extra.responsive_images]
+widths = [640, 784, 1280, 1920, 2560]
+fallback_width = 1280

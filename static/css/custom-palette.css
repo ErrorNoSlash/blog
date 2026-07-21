@@ -1,0 +1,15 @@
+/* errornoslash dark — matches portfolio */
+:root:has(body[data-theme="errorno-dark"]) {
+    --background-color: #040507;
+    --text-color: #AEB5B8;
+    --accent-color: #e3e3e3;
+    --footnote-color: rgba(174, 181, 184, 0.6);
+}
+
+/* errornoslash light — portfolio grey as background, easy on the eyes */
+:root:has(body[data-theme="errorno-light"]) {
+    --background-color: #AEB5B8;
+    --text-color: #2A2F32;
+    --accent-color: #040507;
+    --footnote-color: rgba(4, 5, 7, 0.55);
+}
