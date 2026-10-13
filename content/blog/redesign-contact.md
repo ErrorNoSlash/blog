@@ -8,10 +8,6 @@ taxonomies.tags = [
 	'UI/UX',
 ]
 +++
-# Redesigning My Contact Site with a Neobrutalist Aesthetic
-
-*A fresh visual direction built around bold typography, raw layouts, strong contrast, and a little bit of chaos.*
-
 ## Introduction
 
 Sometimes, a website just needs a new personality.
