@@ -3,7 +3,9 @@ title = 'How i redesigned my contact site'
 slug = 'redesign-contact'
 date = '2026-10-13'
 taxonomies.tags = [
-	'web design',
+	'Web Design',
+	'Neobrutalism',
+	'UI/UX',
 ]
 +++
 # Redesigning My Contact Site with a Neobrutalist Aesthetic
