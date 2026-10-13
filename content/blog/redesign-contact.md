@@ -10,21 +10,17 @@ taxonomies.tags = [
 +++
 ## Introduction
 
-Sometimes, a website just needs a new personality.
+My contact page needed a redesign.
 
-I decided to redesign my contact site with a neobrutalist look, moving away from conventional design patterns toward something bolder, more expressive, and unapologetically different.
+I first build a small contact site myself which turned out pretty good, i later decided to try a redesign using a bit of AI. The design turned out good but the code was a mess so i ended up scrapping it after testing..
 
-The goal wasn't just to give it a fresh coat of paint. I wanted to create an experience that better reflected my design taste while making a simple contact page feel like something worth exploring.
+And now i am giving it a 3th shot the goal was to use AI with the prototyping and design phase of building the site. I gave it a mock site a build as a reference and told it to build a mock site. This worked really well and i was able to use large parts of it. It still needed to be rewritten but it was a good prototype.
+
+During this process, I also started exploring different UI styles to find one that suited the project. Eventually, I settled on **neobrutalism.** 
 
 ## Why Neobrutalism?
 
-Neobrutalism has a visual language that's hard to ignore: thick borders, sharp edges, oversized typography, contrasting colors, and layouts that embrace a certain rawness.
-
-Instead of hiding every rough edge behind gradients, subtle shadows, and perfectly rounded cards, neobrutalism puts the structure front and center.
-
-That was exactly the kind of energy I wanted to bring to my contact site.
-
-I wanted the design to feel confident and playful without sacrificing usability. Every element needed a purpose, even if it looked a little unconventional.
+I chose this style as it matches the design i already used i previously used minimalism. I also wanted my site to pop more and this was the right solution for me.
 
 ## Rethinking the Design
 
@@ -38,17 +34,11 @@ The idea was simple: make the important things stand out, keep the layout easy t
 
 Typography became one of the most important parts of the redesign.
 
-Larger headlines and expressive text establish hierarchy immediately, while strong contrast makes key information easier to scan. The typography does more than communicate information; it becomes part of the visual identity.
+Larger headlines and expressive text establish hierarchy immediately, while strong contrast makes key information easier to scan.
 
-Combined with a carefully chosen color palette, it gives the page a look that's direct, graphic, and unmistakably neobrutalist.
+## Layout and interactivity
 
-## Embracing Borders, Shapes, and Imperfection
-
-One of the defining features of the new direction is its use of visible structure.
-
-Thick borders, hard edges, and solid blocks of color give the interface a more tactile feeling. Elements feel deliberately placed rather than floating inside a generic layout.
-
-The result is a design that feels a little rough around the edges, but in a good way. The visual language is more expressive, and the interface has a stronger sense of character.
+One of the defining features of the new direction is its use of visible structure. I tried making use of the entire page and tried a less conventional layout. I also wanted the site to be much more interactive and feel more alive. I achieved this by adding a lot of effects. This is really visible on desktop a lot of the site will react to the cursor. On mobile this was less feasible as u cant really hover so i settled with making some thing clickable.  
 
 ## Keeping It Functional
 
@@ -58,23 +48,11 @@ Even with the more experimental visual direction, the core purpose of the site r
 
 That meant keeping the content clear, making interactive elements recognizable, and ensuring the design supports the experience rather than getting in the way.
 
-For me, the interesting part of neobrutalism is finding that balance between visual impact and practical usability.
-
 ## The Result
 
-The redesign gave my contact site a completely different personality.
-
-What was once a straightforward point of contact became a more expressive piece of my online presence. The new visual direction feels bolder, more playful, and closer to the kind of design I enjoy creating.
-
-More than anything, this project reminded me that even a small website can be an opportunity to experiment, explore a visual style, and make something that feels personal.
-
-Sometimes, all it takes is a different perspective and a few thick borders.
+The redesign gave the site a complete makeover. It no longer feels empty and makes much better use of the available space. I also really like the new aesthetic, as it gives the site more personality and makes it stand out. The code is also much cleaner than in my first redesign attempt, making the project a better overall result.
 
 ## Final Thoughts
 
-This redesign was a chance to step away from familiar UI patterns and explore a style that puts personality first.
-
-Neobrutalism isn't about making things messy for the sake of it. It's about being deliberate with contrast, structure, and visual expression.
-
-And for my contact site, that was exactly the change I wanted to make.
+This was my first time really trying to use AI and i think it worked out really well. AI cant be used for writing all the code but for prototyping and small snippets it worked pretty well. In the future i am probably going to try making my own small custom AI model. 
 
